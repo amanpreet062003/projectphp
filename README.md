@@ -23,3 +23,7 @@ login page
 ![Screenshot from 2024-04-07 14-29-24](https://github.com/amanpreet062003/projectphp/assets/146962888/88ab9345-bde8-48c4-b2a3-cb3af652abb7)
 
 
+php my admin
+![Screenshot from 2024-04-12 15-50-54](https://github.com/amanpreet062003/projectphp/assets/146962888/01c870b3-15f0-4575-8218-f0f3296af5b8)
+
+![Screenshot from 2024-04-12 15-51-12](https://github.com/amanpreet062003/projectphp/assets/146962888/4b211249-7605-467e-99d2-68e76992240e)
