@@ -1,3 +1,5 @@
+update.php is similarly working as members.php as it only get open after login.
+
 To set up and run the provided SQL code in phpMyAdmin, follow these steps:
 
 Start XAMPP and Services:
