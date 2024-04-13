@@ -1,3 +1,12 @@
+To make run this code firslty you need to execute the sql code onto phpmyadmin.
+firstly , open xampp and run two serrvices from it one is apache2 and another is mysql.
+secondly , go to localhost/phpmyadmin/.
+thirdly , run given sql code in php my admin .
+
+
+
+
+
 Index
 
 
